@@ -1,0 +1,1 @@
+print('sample data generator')
